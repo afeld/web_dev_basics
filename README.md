@@ -16,6 +16,17 @@
     * team account ([Account settings](https://github.com/settings/profile) -> [Organizations](https://github.com/settings/organizations) -> [Create new organization](https://github.com/account/organizations/new)), and add individuals ([help](https://help.github.com/categories/2/articles))
 * Install GitHub app ([Mac](http://mac.github.com/) or [Windows](http://windows.github.com/))
 
+## Local Development
+
+* Why?
+* [Guide](https://gist.github.com/afeld/5003570)
+* [disable modifying Wordpress & plugins on live site](https://codex.wordpress.org/Editing_wp-config.php#Disable_Plugin_and_Theme_Update_and_Installation)
+
+## Wordpress Backups
+
+* Why?
+* [Wordpress Codex guide](http://codex.wordpress.org/WordPress_Backups)
+
 ## Resources
 
 ### Learning
@@ -27,6 +38,7 @@
 
 ### Tools
 
+* [git-ftp](https://github.com/git-ftp/git-ftp#readme)
 * [Go2Shell](https://itunes.apple.com/us/app/go2shell/id445770608?mt=12)
 
 ## License
