@@ -6,6 +6,8 @@
 * Make everything undo-able
 * If it's not tracked in History (version control, Issues, email, etc.), *it didn't happen*
 
+![Automate all the things](http://cdn.memegenerator.net/instances/400x/34643410.jpg)
+
 ## Pre-work
 
 * Install editor
@@ -26,9 +28,6 @@
 
 * Why?
 * [Guide](https://gist.github.com/afeld/5003570)
-
-### Recommended Workflow
-
 * [disable modifying Wordpress & plugins on live site](https://codex.wordpress.org/Editing_wp-config.php#Disable_Plugin_and_Theme_Update_and_Installation)
 
 ## Wordpress Backups
@@ -36,6 +35,31 @@
 * Why?
 * [Wordpress Codex guide](http://codex.wordpress.org/WordPress_Backups)
 * [Services](http://www.stateofsearch.com/top-6-wordpress-backup-plugin-recommendations-for-2013/)
+
+## Exercise
+
+* Local Wordpress setup
+    * MAMP
+    * [Download Wordpress](http://wordpress.org/download/)
+    * [Installing WordPress Locally on Your Mac With MAMP](http://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
+* Git setup
+    * "Add Local Repository", and select the Wordpress folder
+    * "Initial commit"
+    * Push up to Github
+* Change the template
+    * Inspect via Chrome or Firefox
+    * Change template
+    * Commit changes
+* Create post
+    * Check for the diff
+    * Look in phpMyAdmin
+* Fire drill
+    * Make sure all changes are committed and pushed
+    * Dump database to SQL file
+    * Delete database
+    * Delete Wordpress folder
+    * Restore!
+* Deployment via FTP
 
 ## Resources
 
