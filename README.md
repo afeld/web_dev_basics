@@ -1,5 +1,11 @@
 # Web Development Basics workshop
 
+## Big Lessons
+
+* Protect yourself from disasters; protect yourself from yourself
+* Make everything undo-able
+* If it's not tracked in History (version control, Issues, email, etc.), *it didn't happen*
+
 ## Pre-work
 
 * Install editor
