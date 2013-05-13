@@ -10,8 +10,8 @@
 * Go through [Try Git](http://try.github.io/)
 * Install [MAMP](http://www.mamp.info/) (you don't need "Pro")
 * Sign up for [Github](https://github.com/)
-	* individual account
-    * team account ([here](https://github.com/settings/organizations))
+	* one per person
+    * team account ([Account settings](https://github.com/settings/profile) -> [Organizations](https://github.com/settings/organizations) -> [Create new organization](https://github.com/account/organizations/new)), and add individuals ([help](https://help.github.com/categories/2/articles))
 
 ## Resources
 
