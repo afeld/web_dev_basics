@@ -27,8 +27,9 @@
 ## Local Development
 
 * Why?
-* [Guide](https://gist.github.com/afeld/5003570)
+* [Aidan's GoDaddy->local setup guide](https://gist.github.com/afeld/5003570)
 * [disable modifying Wordpress & plugins on live site](https://codex.wordpress.org/Editing_wp-config.php#Disable_Plugin_and_Theme_Update_and_Installation)
+* [starter `wp-config.php`](https://github.com/afeld/web_dev_basics/blob/master/wp-config.php)
 
 ## Wordpress Backups
 
