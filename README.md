@@ -26,6 +26,7 @@
 
 * Why?
 * [Wordpress Codex guide](http://codex.wordpress.org/WordPress_Backups)
+* [Services](http://www.stateofsearch.com/top-6-wordpress-backup-plugin-recommendations-for-2013/)
 
 ## Resources
 
