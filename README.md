@@ -22,6 +22,8 @@
 
 * [Code School](http://www.codeschool.com/) (particularly [Git](http://www.codeschool.com/courses/git-real) and [DevTools](http://www.codeschool.com/courses/discover-devtools))
 * [Head First](http://headfirstlabs.com/) book series
+* [Teach Yourself to Code](http://teachyourselftocode.com/)
+* [Thoughtbot's Trail Maps](https://learn.thoughtbot.com/trails)
 
 ### Tools
 
