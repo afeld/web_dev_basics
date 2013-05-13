@@ -26,6 +26,9 @@
 
 * Why?
 * [Guide](https://gist.github.com/afeld/5003570)
+
+### Recommended Workflow
+
 * [disable modifying Wordpress & plugins on live site](https://codex.wordpress.org/Editing_wp-config.php#Disable_Plugin_and_Theme_Update_and_Installation)
 
 ## Wordpress Backups
@@ -40,6 +43,7 @@
 
 * [Code School](http://www.codeschool.com/) (particularly [Git](http://www.codeschool.com/courses/git-real) and [DevTools](http://www.codeschool.com/courses/discover-devtools))
 * [Head First](http://headfirstlabs.com/) book series
+* [How the Heck Do I Use GitHub?](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
 * [Teach Yourself to Code](http://teachyourselftocode.com/)
 * [Thoughtbot's Trail Maps](https://learn.thoughtbot.com/trails)
 
