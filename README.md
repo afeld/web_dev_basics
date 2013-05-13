@@ -1,4 +1,3 @@
-web_dev_basics
-==============
+# Web Development Basics
 
 Web development workshop
