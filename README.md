@@ -67,6 +67,7 @@
 ### Learning
 
 * [Code School](http://www.codeschool.com/) (particularly [Git](http://www.codeschool.com/courses/git-real) and [DevTools](http://www.codeschool.com/courses/discover-devtools))
+* [The GitHub Glossary](https://help.github.com/articles/github-glossary)
 * [Head First](http://headfirstlabs.com/) book series
 * [How the Heck Do I Use GitHub?](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
 * [Teach Yourself to Code](http://teachyourselftocode.com/)
